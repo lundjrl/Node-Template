@@ -12,7 +12,7 @@
     "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\""
   },
   "dependencies": {
-    "dotenv": "^16.4.4",
+    "dotenv": "^16.4.5",
     "nodemon": "^3.1.0",
     "typescript": "^5.3.3"
   },
