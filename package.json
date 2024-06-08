@@ -29,6 +29,6 @@
     "eslint-plugin-unused-imports": "^3.2.0",
     "prettier": "^2.8.8",
     "tslint-plugin-prettier": "^2.3.0",
-    "tsup": "^8.0.2"
+    "tsup": "^8.1.0"
   }
 }
